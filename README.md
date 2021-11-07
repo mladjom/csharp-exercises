@@ -1,2 +1,2 @@
 # csharp-exercises
-C# exercises 
+This repo contains C# exercises. 
