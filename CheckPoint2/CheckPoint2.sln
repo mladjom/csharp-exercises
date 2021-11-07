@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkpoint1", "..\Checkpoint1\Checkpoint1\Checkpoint2.csproj", "{7B8FED75-AC1F-4FED-8EDF-2AC04E0DB46D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPoint2", "CheckPoint2\CheckPoint2.csproj", "{76D39AD2-715E-45CA-9DDB-F3C25FD1368B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2B435EE0-10AB-4B82-8C5A-2C07EDCAC51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B435EE0-10AB-4B82-8C5A-2C07EDCAC51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B435EE0-10AB-4B82-8C5A-2C07EDCAC51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B435EE0-10AB-4B82-8C5A-2C07EDCAC51C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B8FED75-AC1F-4FED-8EDF-2AC04E0DB46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B8FED75-AC1F-4FED-8EDF-2AC04E0DB46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B8FED75-AC1F-4FED-8EDF-2AC04E0DB46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B8FED75-AC1F-4FED-8EDF-2AC04E0DB46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D39AD2-715E-45CA-9DDB-F3C25FD1368B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D39AD2-715E-45CA-9DDB-F3C25FD1368B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D39AD2-715E-45CA-9DDB-F3C25FD1368B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D39AD2-715E-45CA-9DDB-F3C25FD1368B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
