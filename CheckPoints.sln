@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkpoint1", "Checkpoint1\Checkpoint1\Checkpoint1.csproj", "{8CC901FC-EF7F-4AE9-82DD-B1CA71678ABC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPoint1", "Checkpoint1\Checkpoint1\CheckPoint1.csproj", "{8CC901FC-EF7F-4AE9-82DD-B1CA71678ABC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPoint2", "CheckPoint2\CheckPoint2\CheckPoint2.csproj", "{E205E743-7D61-4CB6-A3C0-7166968C55D1}"
 EndProject
