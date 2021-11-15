@@ -60,7 +60,7 @@ namespace CheckPoint2
             List<Product> sorted = Products.OrderBy(x => x.Price).ToList();
             foreach (Product product in sorted)
             {
-                Console.WriteLine(product.Name + "".PadRight(15) + product.Price);
+                Console.WriteLine(product.Name.PadRight(15) + product.Price);
                 Console.WriteLine("-----------------------------------------------");
             }
             double sumOfAllPricies = Products.Sum(x => x.Price);
@@ -85,7 +85,7 @@ namespace CheckPoint2
                         Console.WriteLine(match.Name + "".PadRight(20) + match.Price);
                         Console.ResetColor();
                     }
-                Console.WriteLine("-----------------------------------------------");
+                    Console.WriteLine("-----------------------------------------------");
                 }
                 else
                 {
