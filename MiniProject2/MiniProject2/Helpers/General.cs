@@ -8,15 +8,15 @@ namespace MiniProject2.Helpers
 
         public static void Menu()
         {
-            ProductController product = new();
+            //ProductController product = new();
         GetInput:
             Console.WriteLine("Choose [c]reate, [r]ead, [u]update, [d]elete  or [q]uit.");
             switch (TrimAndLower(Console.ReadLine()))
             {
-                case "create" or "c": product.Create(); break;
+                case "create" or "c": ProductController.Create(); break;
                 case "read" or "r": ProductController.Read(); break;
-                case "update" or "u": product.Update(); break;
-                case "delete" or "d": product.Delete(); break;
+                case "update" or "u": ProductController.Update(); break;
+                case "delete" or "d": ProductController.Delete(); break;
                 case "quit" or "q": Console.Clear(); return;
                 default: Console.WriteLine("Invalid Input. Try Again..."); goto GetInput;
             }
